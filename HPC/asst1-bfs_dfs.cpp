@@ -189,3 +189,6 @@ int main()
 
     return 0;
 }
+
+/// opt/homebrew/bin/g++-14 temp.cpp -fopenmp -o temp
+//./temp
